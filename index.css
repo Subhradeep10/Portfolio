@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.top-container{
+    background-color: #338275;
+    color: wheat;
+    padding: 30px;
+    height: 500px;
+    
+
+}
+h1{
+    margin: 15px; 
+    font-size: 90px;
+    display: block;
+    position: relative;
+    font-family: 'Great Vibes', cursive;
+    font-weight: 400;
+    padding: 30px;
+
+
+    
+}
+.middle-container{
+    background-color: #88b990;
+    width: -webkit-fill-available;
+    height: fit-content;
+    padding: 20px;
+    
+
+}
+.bottom-container{
+    background-color: #abcd9e;
+    width: -webkit-fill-available;
+    height: 100px;
+}
+.sub-head{
+    font-size: 50px;
+    padding-bottom: 30px;
+    font-family: 'Lobster', cursive;
+    word-spacing: 9px;
+    margin: 10px;
+    
+}
+.icons{
+    display: inline-block;
+    position: relative;
+}
+.profle{
+    margin: 10px;
+}
+.prof-name{
+    margin: 20px;
+    padding: 30px;
+    color: rgb(111, 0, 255);
+    font-size: 30px;
+    font-family: 'Great Vibes', cursive;
+    padding-bottom: 2px;
+}
+.prof-sub-head{
+    color: rgb(4, 4, 5);
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+    margin-bottom: 10px;
+}
+.skill{
+    margin: 20px;
+    padding: 30px;
+    color: rgb(111, 0, 255);
+    font-size: 30px;
+    font-family: 'Great Vibes', cursive;
+}
